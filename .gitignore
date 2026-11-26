@@ -1,0 +1,20 @@
+# Entorno virtual de Python
+.venv/
+__pycache__/
+
+# Datos y modelos pesados (se descargan con instrucciones del README)
+datos/
+modelos/*.task
+muestras/
+*.npy
+
+# Documentos originales con datos personales
+DavidBayonaProyectoDirigido.pdf
+Traductor de LS C Marco teórico.pdf
+
+# Fuentes para generar los PDF y reporte en HTML (no se publican)
+docs/fuente/
+reporte_estado_del_arte.html
+
+# Versiones con código de estudiante (solo para el correo)
+docs/privado/
