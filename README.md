@@ -4,7 +4,7 @@ Proyecto Dirigido – Pontificia Universidad Javeriana Cali.
 
 **Alcances y limitaciones del aprendizaje automático para el reconocimiento de Lengua de Señas Colombiana (LSC) a texto en español.**
 
-> 🚧 En construcción. Próximamente: prueba de concepto que reconoce 10 palabras en LSC a partir de imágenes del dataset LSC70, resultados y video pitch.
+>  En construcción. Próximamente: prueba de concepto que reconoce 10 palabras en LSC a partir de imágenes del dataset LSC70, resultados y video pitch.
 
 ## Qué hay hasta ahora
 
