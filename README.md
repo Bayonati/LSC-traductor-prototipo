@@ -2,9 +2,9 @@
 
 Proyecto Dirigido – Pontificia Universidad Javeriana Cali.
 
-**Alcances y limitaciones de los modelos multimodales de aprendizaje automático (MML) para la traducción de Lengua de Señas Colombiana (LSC) a texto en español.**
+**Alcances y limitaciones del aprendizaje automático para el reconocimiento de Lengua de Señas Colombiana (LSC) a texto en español.**
 
-> 🚧 En construcción. Próximamente: prototipo que reconoce 10 palabras en LSC desde la cámara web, resultados y video pitch.
+> 🚧 En construcción. Próximamente: prueba de concepto que reconoce 10 palabras en LSC a partir de imágenes del dataset LSC70, resultados y video pitch.
 
 ## Qué hay hasta ahora
 
